@@ -14,3 +14,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+I'm eager to code.
+I am taking a web development course at KMD.
+My dream is to develop software.
+
+   
+
